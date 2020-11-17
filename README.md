@@ -8,5 +8,4 @@ DS250 Folder:
 - Clustering.ipynb : Contains the python scripts written for clustering and related analysis of data
 - DS250_dataset.csv : Crude dataset, initially collected
 - PrefsAdded.scv : Final dataset, used for recommendations
-- Cleaned Resonses dataset
 - UI_smartphones.py : Python script using tkinter and other modules to present a neat and clean UI in the process of **Recommendation of Smartphone** to the user
