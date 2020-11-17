@@ -9,6 +9,4 @@ DS250 Folder:
 - Crude dataset
 - Cleaned and Preferences added dataset
 - Cleaned Resonses dataset
-- Presentation slides
-- Report
 - UI python script
