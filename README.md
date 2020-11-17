@@ -9,4 +9,4 @@ DS250 Folder:
 - DS250_dataset.csv : Crude dataset, initially collected
 - PrefsAdded.scv : Final dataset, used for recommendations
 - Cleaned Resonses dataset
-- DSUI.py : Python script using tkinter and other modules to present a neat and clean UI in the process of **Recommendation of Smartphone** to the user
+- UI_smartphones.py : Python script using tkinter and other modules to present a neat and clean UI in the process of **Recommendation of Smartphone** to the user
